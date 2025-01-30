@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Website-traffic-counter/static/css/main.7e24120a.css",
+    "main.js": "/Website-traffic-counter/static/js/main.33d3f44a.js",
+    "index.html": "/Website-traffic-counter/index.html",
+    "main.7e24120a.css.map": "/Website-traffic-counter/static/css/main.7e24120a.css.map",
+    "main.33d3f44a.js.map": "/Website-traffic-counter/static/js/main.33d3f44a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e24120a.css",
+    "static/js/main.33d3f44a.js"
+  ]
+}
